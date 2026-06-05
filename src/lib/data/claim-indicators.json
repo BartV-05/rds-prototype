@@ -1,0 +1,938 @@
+[
+  {
+    "phrase": "studies show",
+    "category": "epistemic_generalization",
+    "weight": 0.92,
+    "requires_citation": true
+  },
+  {
+    "phrase": "studies have shown",
+    "category": "epistemic_generalization",
+    "weight": 0.92,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research shows",
+    "category": "epistemic_generalization",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research has shown",
+    "category": "epistemic_generalization",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research indicates",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research suggests",
+    "category": "epistemic_generalization",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research demonstrates",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "research confirms",
+    "category": "epistemic_generalization",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it has been shown",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it has been found",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it has been demonstrated",
+    "category": "epistemic_generalization",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it has been argued",
+    "category": "epistemic_generalization",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it has been established",
+    "category": "epistemic_generalization",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "evidence suggests",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "evidence shows",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "evidence indicates",
+    "category": "epistemic_generalization",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "the literature suggests",
+    "category": "epistemic_generalization",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "the literature shows",
+    "category": "epistemic_generalization",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "the literature indicates",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "literature suggests",
+    "category": "epistemic_generalization",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "findings suggest",
+    "category": "epistemic_generalization",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "findings indicate",
+    "category": "epistemic_generalization",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "findings show",
+    "category": "epistemic_generalization",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "findings reveal",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "results suggest",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "results indicate",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "results show",
+    "category": "epistemic_generalization",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "statistics show",
+    "category": "statistical_claim",
+    "weight": 0.95,
+    "requires_citation": true
+  },
+  {
+    "phrase": "statistics indicate",
+    "category": "statistical_claim",
+    "weight": 0.94,
+    "requires_citation": true
+  },
+  {
+    "phrase": "data shows",
+    "category": "statistical_claim",
+    "weight": 0.93,
+    "requires_citation": true
+  },
+  {
+    "phrase": "data show",
+    "category": "statistical_claim",
+    "weight": 0.93,
+    "requires_citation": true
+  },
+  {
+    "phrase": "data suggests",
+    "category": "statistical_claim",
+    "weight": 0.92,
+    "requires_citation": true
+  },
+  {
+    "phrase": "data indicate",
+    "category": "statistical_claim",
+    "weight": 0.92,
+    "requires_citation": true
+  },
+  {
+    "phrase": "the data",
+    "category": "statistical_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "a survey found",
+    "category": "statistical_claim",
+    "weight": 0.95,
+    "requires_citation": true
+  },
+  {
+    "phrase": "a study found",
+    "category": "statistical_claim",
+    "weight": 0.94,
+    "requires_citation": true
+  },
+  {
+    "phrase": "a recent study",
+    "category": "statistical_claim",
+    "weight": 0.93,
+    "requires_citation": true
+  },
+  {
+    "phrase": "a study conducted",
+    "category": "statistical_claim",
+    "weight": 0.93,
+    "requires_citation": true
+  },
+  {
+    "phrase": "one study",
+    "category": "statistical_claim",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "multiple studies",
+    "category": "statistical_claim",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "several studies",
+    "category": "statistical_claim",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "numerous studies",
+    "category": "statistical_claim",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "previous studies",
+    "category": "statistical_claim",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "prior research",
+    "category": "statistical_claim",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "empirical evidence",
+    "category": "statistical_claim",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "according to",
+    "category": "attribution",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as argued by",
+    "category": "attribution",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as stated by",
+    "category": "attribution",
+    "weight": 0.90,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as noted by",
+    "category": "attribution",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as suggested by",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as proposed by",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as described by",
+    "category": "attribution",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as defined by",
+    "category": "attribution",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as shown by",
+    "category": "attribution",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as reported by",
+    "category": "attribution",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as claimed by",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as concluded by",
+    "category": "attribution",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "experts argue",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "experts believe",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "experts say",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "experts suggest",
+    "category": "attribution",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "scholars argue",
+    "category": "attribution",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "scholars suggest",
+    "category": "attribution",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "researchers argue",
+    "category": "attribution",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "researchers suggest",
+    "category": "attribution",
+    "weight": 0.89,
+    "requires_citation": true
+  },
+  {
+    "phrase": "researchers found",
+    "category": "attribution",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "researchers have found",
+    "category": "attribution",
+    "weight": 0.91,
+    "requires_citation": true
+  },
+  {
+    "phrase": "many researchers",
+    "category": "attribution",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "some researchers",
+    "category": "attribution",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "several researchers",
+    "category": "attribution",
+    "weight": 0.86,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is known that",
+    "category": "consensus_claim",
+    "weight": 0.80,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is well known that",
+    "category": "consensus_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is widely accepted",
+    "category": "consensus_claim",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is generally accepted",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is commonly accepted",
+    "category": "consensus_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is widely recognized",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is generally recognized",
+    "category": "consensus_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is widely acknowledged",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "it is commonly known",
+    "category": "consensus_claim",
+    "weight": 0.79,
+    "requires_citation": true
+  },
+  {
+    "phrase": "there is consensus",
+    "category": "consensus_claim",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "there is growing consensus",
+    "category": "consensus_claim",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "there is broad agreement",
+    "category": "consensus_claim",
+    "weight": 0.86,
+    "requires_citation": true
+  },
+  {
+    "phrase": "there is evidence",
+    "category": "consensus_claim",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "most researchers agree",
+    "category": "consensus_claim",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "most scholars agree",
+    "category": "consensus_claim",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "the majority of researchers",
+    "category": "consensus_claim",
+    "weight": 0.86,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is well documented",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is well established",
+    "category": "consensus_claim",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is well supported",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "leads to",
+    "category": "causal_claim",
+    "weight": 0.55,
+    "requires_citation": true
+  },
+  {
+    "phrase": "results in",
+    "category": "causal_claim",
+    "weight": 0.55,
+    "requires_citation": true
+  },
+  {
+    "phrase": "causes",
+    "category": "causal_claim",
+    "weight": 0.50,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is caused by",
+    "category": "causal_claim",
+    "weight": 0.60,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is associated with",
+    "category": "causal_claim",
+    "weight": 0.70,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is correlated with",
+    "category": "causal_claim",
+    "weight": 0.75,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been linked to",
+    "category": "causal_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is linked to",
+    "category": "causal_claim",
+    "weight": 0.78,
+    "requires_citation": true
+  },
+  {
+    "phrase": "contributes to",
+    "category": "causal_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "affects",
+    "category": "causal_claim",
+    "weight": 0.48,
+    "requires_citation": true
+  },
+  {
+    "phrase": "influences",
+    "category": "causal_claim",
+    "weight": 0.52,
+    "requires_citation": true
+  },
+  {
+    "phrase": "impacts",
+    "category": "causal_claim",
+    "weight": 0.52,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has an impact on",
+    "category": "causal_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has a significant impact",
+    "category": "causal_claim",
+    "weight": 0.78,
+    "requires_citation": true
+  },
+  {
+    "phrase": "significantly affects",
+    "category": "causal_claim",
+    "weight": 0.75,
+    "requires_citation": true
+  },
+  {
+    "phrase": "significantly influences",
+    "category": "causal_claim",
+    "weight": 0.75,
+    "requires_citation": true
+  },
+  {
+    "phrase": "plays a crucial role",
+    "category": "causal_claim",
+    "weight": 0.72,
+    "requires_citation": true
+  },
+  {
+    "phrase": "plays an important role",
+    "category": "causal_claim",
+    "weight": 0.70,
+    "requires_citation": true
+  },
+  {
+    "phrase": "plays a key role",
+    "category": "causal_claim",
+    "weight": 0.70,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been proven",
+    "category": "epistemic_generalization",
+    "weight": 0.86,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been confirmed",
+    "category": "epistemic_generalization",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been observed",
+    "category": "epistemic_generalization",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been reported",
+    "category": "epistemic_generalization",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been documented",
+    "category": "epistemic_generalization",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been identified",
+    "category": "epistemic_generalization",
+    "weight": 0.80,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been recognized",
+    "category": "epistemic_generalization",
+    "weight": 0.79,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been noted",
+    "category": "epistemic_generalization",
+    "weight": 0.78,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is known to",
+    "category": "consensus_claim",
+    "weight": 0.75,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are known to",
+    "category": "consensus_claim",
+    "weight": 0.75,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is believed to",
+    "category": "consensus_claim",
+    "weight": 0.77,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are believed to",
+    "category": "consensus_claim",
+    "weight": 0.77,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is thought to",
+    "category": "consensus_claim",
+    "weight": 0.72,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are thought to",
+    "category": "consensus_claim",
+    "weight": 0.72,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is considered to",
+    "category": "consensus_claim",
+    "weight": 0.68,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is regarded as",
+    "category": "consensus_claim",
+    "weight": 0.70,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is seen as",
+    "category": "consensus_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is viewed as",
+    "category": "consensus_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are seen as",
+    "category": "consensus_claim",
+    "weight": 0.65,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is recognized as",
+    "category": "consensus_claim",
+    "weight": 0.72,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are recognized as",
+    "category": "consensus_claim",
+    "weight": 0.72,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been widely studied",
+    "category": "consensus_claim",
+    "weight": 0.80,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has received considerable attention",
+    "category": "consensus_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has attracted significant attention",
+    "category": "consensus_claim",
+    "weight": 0.81,
+    "requires_citation": true
+  },
+  {
+    "phrase": "has been extensively studied",
+    "category": "consensus_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "are increasingly",
+    "category": "causal_claim",
+    "weight": 0.60,
+    "requires_citation": true
+  },
+  {
+    "phrase": "is increasingly",
+    "category": "causal_claim",
+    "weight": 0.60,
+    "requires_citation": true
+  },
+  {
+    "phrase": "growing evidence",
+    "category": "statistical_claim",
+    "weight": 0.86,
+    "requires_citation": true
+  },
+  {
+    "phrase": "mounting evidence",
+    "category": "statistical_claim",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "strong evidence",
+    "category": "statistical_claim",
+    "weight": 0.88,
+    "requires_citation": true
+  },
+  {
+    "phrase": "substantial evidence",
+    "category": "statistical_claim",
+    "weight": 0.87,
+    "requires_citation": true
+  },
+  {
+    "phrase": "limited evidence",
+    "category": "statistical_claim",
+    "weight": 0.83,
+    "requires_citation": true
+  },
+  {
+    "phrase": "little evidence",
+    "category": "statistical_claim",
+    "weight": 0.82,
+    "requires_citation": true
+  },
+  {
+    "phrase": "no evidence",
+    "category": "statistical_claim",
+    "weight": 0.85,
+    "requires_citation": true
+  },
+  {
+    "phrase": "lack of evidence",
+    "category": "statistical_claim",
+    "weight": 0.84,
+    "requires_citation": true
+  },
+  {
+    "phrase": "as a result",
+    "category": "causal_claim",
+    "weight": 0.40,
+    "requires_citation": true
+  },
+  {
+    "phrase": "therefore",
+    "category": "causal_claim",
+    "weight": 0.30,
+    "requires_citation": false
+  },
+  {
+    "phrase": "thus",
+    "category": "causal_claim",
+    "weight": 0.28,
+    "requires_citation": false
+  },
+  {
+    "phrase": "hence",
+    "category": "causal_claim",
+    "weight": 0.30,
+    "requires_citation": false
+  },
+  {
+    "phrase": "consequently",
+    "category": "causal_claim",
+    "weight": 0.35,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this suggests",
+    "category": "epistemic_generalization",
+    "weight": 0.50,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this indicates",
+    "category": "epistemic_generalization",
+    "weight": 0.50,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this demonstrates",
+    "category": "epistemic_generalization",
+    "weight": 0.52,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this shows",
+    "category": "epistemic_generalization",
+    "weight": 0.48,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this implies",
+    "category": "epistemic_generalization",
+    "weight": 0.50,
+    "requires_citation": false
+  },
+  {
+    "phrase": "this confirms",
+    "category": "epistemic_generalization",
+    "weight": 0.52,
+    "requires_citation": false
+  },
+  {
+    "phrase": "these findings",
+    "category": "epistemic_generalization",
+    "weight": 0.55,
+    "requires_citation": false
+  },
+  {
+    "phrase": "these results",
+    "category": "epistemic_generalization",
+    "weight": 0.52,
+    "requires_citation": false
+  }
+]
