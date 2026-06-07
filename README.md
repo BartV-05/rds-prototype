@@ -17,8 +17,7 @@ A deployed version is available at: **https://ai-transparency-tool.vercel.app**
 Requires [Docker Desktop](https://www.docker.com/products/docker-desktop/) (or Docker Engine + Compose on Linux).
 
 ```bash
-# 1. Clone or unzip the project, then enter the folder
-cd Prototype
+# 1. Clone or unzip the project.
 
 # 2. Build the image and start the container
 docker compose up --build
