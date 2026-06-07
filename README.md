@@ -42,7 +42,6 @@ Requires [Node.js](https://nodejs.org/) v18 or higher, or [Deno](https://deno.la
 
 **With Node.js / npm:**
 ```bash
-cd Prototype
 npm install
 npm run dev
 # Open http://localhost:5173
@@ -50,7 +49,6 @@ npm run dev
 
 **With Deno:**
 ```bash
-cd Prototype
 deno task dev --open
 ```
 
