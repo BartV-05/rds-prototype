@@ -7,7 +7,7 @@ A reflective tool that helps students disclose their AI use in academic writing 
 
 ## Live version
 
-A deployed version is available at: **https://ai-transparency-tool.vercel.app**
+A deployed version is available at: **https://rds-prototype.vercel.app**
 (No setup required — open the link and use it directly.)
 
 ---
