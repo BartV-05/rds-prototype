@@ -3,7 +3,7 @@
 **INFOB3RDS Group Assignment 2 — Group 01 (Bart, Khadija, Annemiek)**
 Universiteit Utrecht, 2025-2026
 
-A reflective tool that helps students disclose their AI use in academic writing and check compliance with the UU AI Index (July 2025). All text analysis runs client-side in the browser — no data is sent to any server.
+A reflective tool that helps students disclose their AI use in academic writing and check compliance with the UU AI Index (July 2025). All text analysis runs client-side in the browser. No data is sent to any server.
 
 ## Live version
 
@@ -12,7 +12,7 @@ A deployed version is available at: **https://rds-prototype.vercel.app**
 
 ---
 
-## Run with Docker (recommended for evaluators)
+## Run with Docker
 
 Requires [Docker Desktop](https://www.docker.com/products/docker-desktop/) (or Docker Engine + Compose on Linux).
 
@@ -54,7 +54,7 @@ deno task dev --open
 
 ---
 
-## How to exercise the prototype (grader walkthrough)
+## How to exercise the prototype
 
 1. **Step 1 — Paste text**: paste or load the sample academic paper. The tool counts words, paragraphs, and sentences live. Minimum 100 words required to proceed.
 
